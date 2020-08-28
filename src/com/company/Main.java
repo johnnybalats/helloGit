@@ -6,8 +6,4 @@ public class Main {
 
         System.out.println("Hello Git!");
     }
-
-    public void printSomething() {
-        System.out.println("new method");
-    }
 }
